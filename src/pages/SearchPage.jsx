@@ -23,6 +23,7 @@ export const loader = async ({request}) => {
 
 
 
+
 const SearchPage = () => {
   return (
     <div className='grid grid-cols-4 '>
